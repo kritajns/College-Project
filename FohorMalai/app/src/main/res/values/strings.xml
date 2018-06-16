@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FOHOR MALAI</string>
+    <string name="description">A Waste Management App with the use of IoT</string>
+    <string name="schedule">PickUp Schedule</string>
+    <string name="notification">SMS Notification</string>
+    <string name="bin">SmartBin Implementation</string>
+    <string name="register">Register</string>
+    <string name="signIn">Sign In</string>
+    <string name="power">Powered by</string>
+    <string name="group_name">Clustered Concepts</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="phoneNumber">Mobile Number</string>
+    <string name="member">Already a member? |</string>
+    <string name="to_login">Please login here</string>
+    <string name="notMember">Not a member yet?</string>
+    <string name="to_register">Please register here</string>
+    <string name="get_start">Get Started</string>
+    <string name="new_user">I am new here</string>
+    <string name="old_user">I have an account</string>
+</resources>
